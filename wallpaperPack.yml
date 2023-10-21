@@ -1,0 +1,72 @@
+- enName: Pixel 1 Wallpaper Pack
+  ruName: Пак обоев "Pixel 1"
+  packageName: com.breel.geswallpapers
+  directory: P1
+  checksum: 85330559
+  preview: p1_moab_small.jpg
+  
+- enName: Pixel 2 Wallpaper Pack
+  ruName: Пак обоев "Pixel 1=2"
+  packageName: com.breel.wallpapers
+  directory: P2
+  checksum: 169453255
+  preview: p2_honolulu_small.jpg
+  
+- enName: Pixel 3 Wallpaper Pack
+  ruName: Пак обоев "Pixel 3"
+  packageName: com.breel.wallpapers18
+  directory: P3
+  checksum: 167338589
+  preview: p3_fiji_small.jpg
+  
+- enName: Pixel 4 Wallpaper Pack
+  ruName: Пак обоев "Pixel 4"
+  packageName: com.breel.wallpapers19
+  directory: P4
+  checksum: 47202066
+  preview: p4_arabia_small.jpg
+  
+- enName: Pixel 4a Wallpaper Pack
+  ruName: Пак обоев "Pixel 4a"
+  packageName: com.breel.wallpapers20a
+  directory: P4A
+  checksum: 9889771
+  preview: p4a_gradient_small.jpg
+  
+- enName: Pinball Wallpaper Pack
+  ruName: Пак обоев "Пинбол"
+  packageName: com.google.pixel.livewallpaper.pulley
+  directory: P
+  checksum: 7294917
+  preview: p_pulley_small.jpg
+  
+- enName: Pixel 5 Wallpaper Pack
+  ruName: Пак обоев "Pixel 5"
+  packageName: com.breel.wallpapers20
+  directory: P5
+  checksum: 50256888
+  preview: p5_stack_small.jpg
+  
+- enName: Pixel 6 Wallpaper Pack
+  ruName: Пак обоев "Pixel 6"
+  packageName: com.google.pixel6.livewallpaper
+  packageNameService: com.google.pixel.wallpapers21
+  directory: P6
+  checksum: 162961629
+  preview: p6_blooming_botanicals_v1_small.jpg
+  
+- enName: Pixel 6a Wallpaper Pack
+  ruName: Пак обоев "Pixel 6a"
+  packageName: com.google.pixel6a.livewallpaper
+  directory: P6A
+  checksum: 0
+  preview: p6a_landscapes_v1_dark_small.jpg
+  includesDynamic: false
+
+- enName: Pixel 7 Wallpaper Pack
+  ruName: Пак обоев "Pixel 7"
+  packageName: com.google.pixel7.livewallpaper
+  directory: P7
+  checksum: 0
+  preview: p7_pro_lemongrass_light_small.jpg
+  includesDynamic: false

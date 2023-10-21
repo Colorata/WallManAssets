@@ -1,0 +1,62 @@
+- enName: Arches National Park
+  ruName: Нац. парк Арки
+  enFullName: Arches National Park, Moab, Utah
+  ruFullName: Нац. парк Арки, Моаб, штат Юта
+  enDescription: In addition to a variety of geological formations, the park contains over 2,000 natural sandstone arches, including the world-famous Delicate Arch.
+  ruDescription: Наряду с другими чудесами природы в парке находится более 2000 нерукотворных арок из песчаника. В том числе – всемирно известная Изящная арка.
+  parent: P1
+  located: true
+  dynamicWallpapers:
+    - serviceName: .wallpapers.MoabWallpaperService
+      preview: p1_moab_small
+      coordinates:
+        latitude: 38.73175
+        longtitude: -109.72572
+  staticWallpapers:
+    - link: p1_moab_preview
+      preview: p1_moab_small
+      coordinates:
+        latitude: 38.73175
+        longtitude: -109.72572
+
+- enName: Garden
+  ruName: Сад
+  enFullName: Garden, Kent, United Kingdom
+  ruFullName: Сад, Кент, Великобритания
+  enDescription: With its abundance of fruit orchards and hop gardens, Kent is known as The Garden of England.
+  ruDescription: Из-за многочисленных фруктовых садов и плантаций хмеля Кент называют "садом Англии".
+  parent: P1
+  located: true
+  dynamicWallpapers:
+    - serviceName: .wallpapers.KentWallpaperService
+      preview: p1_kent_small
+      coordinates:
+        latitude: 51.283894
+        longtitude: 0.7860345
+  staticWallpapers:
+    - link: p1_kent_preview
+      preview: p1_kent_small
+      coordinates:
+        latitude: 51.283894
+        longtitude: 0.7860345
+
+- enName: Half Dome
+  ruName: Скала Хаф-Доум
+  enFullName: Half Dome, Yosemite National Park, CA
+  ruFullName: Скала Хаф-Доум в Йосемитском нац. парке, штат Калифорния
+  enDescription: This granite formation in Yosemite Valley, named for its distinct shape, rises more than 4,737 ft above the valley floor.
+  ruDescription: Название этой гранитной скалы переводится как \"полукупол\". Она возвышается над долиной Йосемити на 1450 метров.
+  parent: P1
+  located: true
+  dynamicWallpapers:
+    - serviceName: .wallpapers.KentWallpaperService
+      preview: p1_half_dome_small
+      coordinates:
+        latitude: 37.746494
+        longtitude: -119.53273
+  staticWallpapers:
+    - link: p1_half_dome_preview
+      preview: p1_half_dome_small
+      coordinates:
+        latitude: 37.746494
+        longtitude: -119.53273
